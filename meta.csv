@@ -25,3 +25,4 @@ add.POSIXct,viz_owner_repo,commit.POSIXct,source,title
 2024-04-09T16:39:27.672970Z,tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V2-200px-696Case,2024-04-09T16:38:46Z,https://github.com/TyBruceChen/Research-A-Fined-Tuned-ViT-for-COVID-19-Image-Auxiliary-Diagnosing,Classifying Covid19 chest X-ray images
 2024-04-09T22:40:29.930902Z,tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V3-140px-609Case,2024-04-09T22:39:37Z,https://github.com/TyBruceChen/Animinted2GradCAM?tab=readme-ov-file,"Classifying chest X-rays, plot confidence"
 2024-05-22T23:26:19.636261Z,tdhock/2024-05-22-changepoint-model-selection,2024-05-22T23:25:22Z,https://github.com/tdhock/changepoint-data-structure/blob/master/figure-loss-small-data.R,Changepoint model selection
+2024-06-12T15:11:58.153638Z,nhintruong/Ch18-neural-networks-sim,2024-06-11T15:33:47Z,https://github.com/tdhock/animint-book/blob/7e7a224c004843d42a6f7e6caa30e319bcdce901/Ch18-neural-networks-sim.R,Neural network vs linear model
