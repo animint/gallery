@@ -108,4 +108,6 @@ biplab-sutradhar/Data-viz-with-206-selectors
 suhaani-agarwal/ROC-curve-alignment
 suhaani-agarwal/figure-loss-small-data
 ANAMASGARD/dna-copy-number-large-margin
-aakritixyz/animint-mpg-analysis
+aakritixyz/animint-mpg-analysisaakritixyz/animint-mpg-analysis
+aakritixyz/animint-sales-plot
+aakritixyz/animint-sales-plot
