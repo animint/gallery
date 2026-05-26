@@ -46,10 +46,11 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-05-27T08:01:05.116130Z,suhaani-agarwal/intreg-BIC,"",https://github.com/suhaani-agarwal/animint/blob/master/inst/examples/intreg_BIC.R,Segmentation model selection with BIC
 2025-05-27T11:22:32.142369Z,suhaani-agarwal/Ch18-neural-networks-sim,"",https://github.com/suhaani-agarwal/animint-book/blob/master/Ch18-neural-networks-sim.R,Gradient descent for neural network and linear model
 2025-05-27T11:50:29.187449Z,suhaani-agarwal/figure-gradient-descent-regression,"",https://github.com/suhaani-agarwal/cs570-spring-2022/blob/master/figure-gradient-descent-regression.R,Gradient descent for regression
+2026-03-24T16:04:05.024378Z,ANAMASGARD/climate-change-sensor-stations,"",https://github.com/ANAMASGARD/climate-change-sensor-stations/blob/main/figure-stations.R,CRUTEM4 Temperature Sensor Stations
 2025-08-29T13:23:46.091420Z,tdhock/2025-08-29-LOPART-candidates-grid,"",https://github.com/tdhock/LOPART-paper/blob/master/figure-candidates-interactive.R,Labeled optimal partitioning (LOPART) algorithm for change-point detection with label constraints
 2025-08-26T07:19:01.288519Z,biplab-sutradhar/Data-viz-with-206-selectors,"",https://github.com/biplab-sutradhar/Data-viz-with-206-selectors/blob/gh-pages/PSJ.R,Animint compiler with for loops
 2025-06-18T08:46:23.746985Z,suhaani-agarwal/ROC-curve-alignment,"",https://github.com/suhaani-agarwal/max-generalized-auc/blob/master/figure-curveAlignment.R,Changepoint detection ROC curve alignment problem
 2025-08-25T13:41:41.008040Z,suhaani-agarwal/figure-loss-small-data,"",https://github.com/tdhock/changepoint-data-structure/blob/master/figure-loss-small-data.R,Changepoint model selection
 2025-11-15T15:24:19.490278Z,ANAMASGARD/dna-copy-number-large-margin,"",https://github.com/ANAMASGARD/dna-copy-number-viz-code/blob/main/intreg.R,Max-margin interval regression for supervised segmentation model selection
 2025-12-08T15:39:28.834598Z,ANAMASGARD/chip-seq-large-margin,"",https://github.com/ANAMASGARD/chip-seq-large-margin-code/blob/main/chip-seq-large-margin.R,Max-margin supervised penalty learning for peak detection in ChIP-seq data
-2026-03-24T16:04:05.024378Z,ANAMASGARD/climate-change-sensor-stations,,https://github.com/ANAMASGARD/climate-change-sensor-stations/blob/main/figure-stations.R,CRUTEM4 Temperature Sensor Stations
+2026-05-26T04:10:17.076434Z,tdhock/2026-05-25-Newton-stationary-point,,https://github.com/tdhock/2026-05-nlopt/blob/main/figure-newton.R,Newton’s method for stationary point finding
