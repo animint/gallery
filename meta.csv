@@ -1,4 +1,5 @@
 add.POSIXct,viz_owner_repo,video,source,title
+2026-05-26T04:10:17.076434Z,tdhock/2026-05-25-Newton-stationary-point,"",https://github.com/tdhock/2026-05-nlopt/blob/main/figure-newton.R,Newton’s method for stationary point finding
 2025-10-16T13:57:09.713788Z,tdhock/2025-10-09-HiC-pixels-chr1-zoom-tiles-clusters,https://vimeo.com/1127879183,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-09/figure-pixels-chr1-zoom-tiles-clusters.R,Hi-C pixels chr1 clusters zoom using tiles
 2025-01-27T08:29:55.296537Z,tdhock/2025-01-19-bike-rides-around-paris-2009,https://vimeo.com/1048533960,https://github.com/animint/animint2/blob/master/inst/examples/gps.R,Map and time series of Toby Hocking's Bike Rides in 2009
 2025-01-24T17:44:50.962430Z,tdhock/2025-01-WorldBank-facets-map,https://vimeo.com/1050117030,https://github.com/animint/animint2/blob/master/inst/examples/WorldBank-facets-map.R,"World Bank data (multiple selection, facets)"
@@ -53,4 +54,4 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-08-25T13:41:41.008040Z,suhaani-agarwal/figure-loss-small-data,"",https://github.com/tdhock/changepoint-data-structure/blob/master/figure-loss-small-data.R,Changepoint model selection
 2025-11-15T15:24:19.490278Z,ANAMASGARD/dna-copy-number-large-margin,"",https://github.com/ANAMASGARD/dna-copy-number-viz-code/blob/main/intreg.R,Max-margin interval regression for supervised segmentation model selection
 2025-12-08T15:39:28.834598Z,ANAMASGARD/chip-seq-large-margin,"",https://github.com/ANAMASGARD/chip-seq-large-margin-code/blob/main/chip-seq-large-margin.R,Max-margin supervised penalty learning for peak detection in ChIP-seq data
-2026-05-26T04:10:17.076434Z,tdhock/2026-05-25-Newton-stationary-point,,https://github.com/tdhock/2026-05-nlopt/blob/main/figure-newton.R,Newton’s method for stationary point finding
+2026-06-01T04:46:09.131183Z,tdhock/2026-06-01-trust-region-sin,,https://github.com/tdhock/2026-05-nlopt/blob/main/figure-trust-region.R,Trust region with Newton optimization algorithm in 1D

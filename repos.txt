@@ -1,3 +1,4 @@
+tdhock/2026-06-01-trust-region-sin
 tdhock/2026-05-25-Newton-stationary-point
 tdhock/2025-10-09-HiC-pixels-chr1-zoom-tiles-clusters
 tdhock/2025-01-19-bike-rides-around-paris-2009
