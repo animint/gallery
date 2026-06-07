@@ -1,3 +1,4 @@
+tdhock/2026-06-05-trust-region-2D
 tdhock/2026-06-01-trust-region-sin
 tdhock/2026-05-25-Newton-stationary-point
 tdhock/2025-10-09-HiC-pixels-chr1-zoom-tiles-clusters
