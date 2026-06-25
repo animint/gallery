@@ -1,4 +1,5 @@
 add.POSIXct,viz_owner_repo,video,source,title
+2026-06-19T16:02:48.961957Z,tdhock/2026-06-19-svm-grid,"",https://github.com/tdhock/2026-05-nlopt/blob/main/figure-svm.R,Grid search for hard margin support vector machine
 2026-06-07T13:00:04.257488Z,tdhock/2026-06-05-trust-region-2D,"",https://github.com/tdhock/2026-05-nlopt/blob/main/figure-trust-region-2D.R,2D Trust region and conjugate gradient
 2026-06-01T04:46:09.131183Z,tdhock/2026-06-01-trust-region-sin,"",https://github.com/tdhock/2026-05-nlopt/blob/main/figure-trust-region.R,Trust region with Newton optimization algorithm in 1D
 2026-05-26T04:10:17.076434Z,tdhock/2026-05-25-Newton-stationary-point,"",https://github.com/tdhock/2026-05-nlopt/blob/main/figure-newton.R,Newton’s method for stationary point finding
@@ -56,4 +57,4 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-08-25T13:41:41.008040Z,suhaani-agarwal/figure-loss-small-data,"",https://github.com/tdhock/changepoint-data-structure/blob/master/figure-loss-small-data.R,Changepoint model selection
 2025-11-15T15:24:19.490278Z,ANAMASGARD/dna-copy-number-large-margin,"",https://github.com/ANAMASGARD/dna-copy-number-viz-code/blob/main/intreg.R,Max-margin interval regression for supervised segmentation model selection
 2025-12-08T15:39:28.834598Z,ANAMASGARD/chip-seq-large-margin,"",https://github.com/ANAMASGARD/chip-seq-large-margin-code/blob/main/chip-seq-large-margin.R,Max-margin supervised penalty learning for peak detection in ChIP-seq data
-2026-06-19T16:02:48.961957Z,tdhock/2026-06-19-svm-grid,,https://github.com/tdhock/2026-05-nlopt/blob/main/figure-svm.R,Grid search for hard margin support vector machine
+2026-06-25T03:43:10.612353Z,tdhock/2026-06-24-directlabels-grid,,https://github.com/tdhock/2026-05-nlopt/blob/main/figure-directlabels-grid.R,Linear constraints for label position optimization
