@@ -5,8 +5,17 @@ output:
     self_contained: false
 ---
 
-This is a gallery of data visualizations which have been created
+This is the main gallery of data visualizations which have been created
 using the R package [animint2](https://github.com/animint/animint2).
+The goal of this gallery is to demonstrate the different kinds of data visualizations that can be created.
+There are other galleries:
+
+* Similar general scope gallery of data visualizations, but in French: [La galerie en français pour animint2](https://animint.github.io/gallery-fr)
+* [animint2 machine learning gallery](https://tdhock.github.io/gallery-ml): visualizations of classic and state-of-the-art algorithms.
+* [animint2 optimization gallery](https://tdhock.github.io/gallery-opt): visualizations of classic optimization algorithms, for teaching.
+* [Change-point detection gallery](https://tdhock.github.io/gallery-change-point): visualizations of classic and state-of-the-art change-point detection algorithms.
+* [HiC gallery](https://tdhock.github.io/gallery-hic) and [Gallery of results visualization for hicream article](https://eoojj.github.io/hicream-article-viz/): visualizations of HiC genomic data, to support our [hicream Bioinformatics 2026 paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag631/8770358?login=true).
+
 
 ```{r Ropts, echo=FALSE}
 options(width=200)
