@@ -1,4 +1,5 @@
 add.POSIXct,viz_owner_repo,video,source,title
+2026-10-09T16:48:59.241418Z,tdhock/2026-10-09-fread-git-bisect,"",https://github.com/tdhock/data.table-pr7907-bisect-viz/blob/main/bisect-7907.R,Identifying data.table::fread() performance regressions with atime and git bisect
 2026-06-25T03:43:10.612353Z,tdhock/2026-06-24-directlabels-grid,"",https://github.com/tdhock/2026-05-nlopt/blob/main/figure-directlabels-grid.R,Linear constraints for label position optimization
 2026-06-19T16:02:48.961957Z,tdhock/2026-06-19-svm-grid,"",https://github.com/tdhock/2026-05-nlopt/blob/main/figure-svm.R,Grid search for hard margin support vector machine
 2026-06-07T13:00:04.257488Z,tdhock/2026-06-05-trust-region-2D,"",https://github.com/tdhock/2026-05-nlopt/blob/main/figure-trust-region-2D.R,2D Trust region and conjugate gradient
@@ -58,4 +59,5 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-08-25T13:41:41.008040Z,suhaani-agarwal/figure-loss-small-data,"",https://github.com/tdhock/changepoint-data-structure/blob/master/figure-loss-small-data.R,Changepoint model selection
 2025-11-15T15:24:19.490278Z,ANAMASGARD/dna-copy-number-large-margin,"",https://github.com/ANAMASGARD/dna-copy-number-viz-code/blob/main/intreg.R,Max-margin interval regression for supervised segmentation model selection
 2025-12-08T15:39:28.834598Z,ANAMASGARD/chip-seq-large-margin,"",https://github.com/ANAMASGARD/chip-seq-large-margin-code/blob/main/chip-seq-large-margin.R,Max-margin supervised penalty learning for peak detection in ChIP-seq data
-2026-10-09T16:48:59.241418Z,tdhock/2026-10-09-fread-git-bisect,,https://github.com/tdhock/data.table-pr7907-bisect-viz/blob/main/bisect-7907.R,Identifying data.table::fread() performance regressions with atime and git bisect
+2026-10-09T19:37:12.430831Z,tdhock/2026-10-09-performance-bisect-DT_by__fixed_in__4558_Slow_Fast,,https://github.com/Rdatatable/data.table/pull/7912/files#diff-e7f10716f0ff9f29e3186a43cfed95d970b167dc4d6a92c00b9e0736bf4b05ae,Performance testing with git bisect in data.table DT_by__fixed_in__4558_Slow_Fast
+2026-10-09T19:37:12.430831Z,tdhock/2026-10-09-performance-bisect-DT_by__fixed_in__4558_Before_Regression,,https://github.com/Rdatatable/data.table/pull/7912/files#diff-e7f10716f0ff9f29e3186a43cfed95d970b167dc4d6a92c00b9e0736bf4b05ae,Performance testing with git bisect in data.table DT_by__fixed_in__4558_Before_Regression
