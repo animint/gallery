@@ -1,3 +1,4 @@
+tdhock/2026-10-13-bisect-performance-pr7912
 tdhock/2026-10-09-performance-bisect-DT_by__fixed_in__4558_Slow_Fast
 tdhock/2026-10-09-performance-bisect-DT_by__fixed_in__4558_Before_Regression
 tdhock/2026-10-09-fread-git-bisect
