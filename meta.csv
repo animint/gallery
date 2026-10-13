@@ -1,4 +1,5 @@
 add.POSIXct,viz_owner_repo,video,source,title
+2026-10-13T08:37:02.406474Z,tdhock/2026-10-13-bisect-performance-pr7912,"",https://github.com/tdhock/data.table-pr7912-bisect-viz/blob/main/viz.R,data.table git bisect performance analysis for PR7912
 2026-10-09T19:37:12.430831Z,tdhock/2026-10-09-performance-bisect-DT_by__fixed_in__4558_Slow_Fast,"",https://github.com/Rdatatable/data.table/pull/7912/files#diff-e7f10716f0ff9f29e3186a43cfed95d970b167dc4d6a92c00b9e0736bf4b05ae,Performance testing with git bisect in data.table DT_by__fixed_in__4558_Slow_Fast
 2026-10-09T19:37:12.430831Z,tdhock/2026-10-09-performance-bisect-DT_by__fixed_in__4558_Before_Regression,"",https://github.com/Rdatatable/data.table/pull/7912/files#diff-e7f10716f0ff9f29e3186a43cfed95d970b167dc4d6a92c00b9e0736bf4b05ae,Performance testing with git bisect in data.table DT_by__fixed_in__4558_Before_Regression
 2026-10-09T16:48:59.241418Z,tdhock/2026-10-09-fread-git-bisect,"",https://github.com/tdhock/data.table-pr7907-bisect-viz/blob/main/bisect-7907.R,Identifying data.table::fread() performance regressions with atime and git bisect
@@ -61,4 +62,4 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-08-25T13:41:41.008040Z,suhaani-agarwal/figure-loss-small-data,"",https://github.com/tdhock/changepoint-data-structure/blob/master/figure-loss-small-data.R,Changepoint model selection
 2025-11-15T15:24:19.490278Z,ANAMASGARD/dna-copy-number-large-margin,"",https://github.com/ANAMASGARD/dna-copy-number-viz-code/blob/main/intreg.R,Max-margin interval regression for supervised segmentation model selection
 2025-12-08T15:39:28.834598Z,ANAMASGARD/chip-seq-large-margin,"",https://github.com/ANAMASGARD/chip-seq-large-margin-code/blob/main/chip-seq-large-margin.R,Max-margin supervised penalty learning for peak detection in ChIP-seq data
-2026-10-13T08:37:02.406474Z,tdhock/2026-10-13-bisect-performance-pr7912,,https://github.com/tdhock/data.table-pr7912-bisect-viz/blob/main/viz.R,data.table git bisect performance analysis for PR7912
+2026-10-13T08:52:39.054487Z,tdhock/2026-10-13-bisect-performance-pr7912-log10-lim0.01sec,,https://github.com/tdhock/data.table-pr7912-bisect-viz/blob/main/viz.R,"data.table git bisect performance analysis for PR7912, 0.01 sec time limit, N on log10 scale"
