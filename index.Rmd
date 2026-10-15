@@ -13,6 +13,7 @@ There are other galleries:
 * Similar general scope gallery of data visualizations, but in French: [La galerie en français pour animint2](https://animint.github.io/gallery-fr)
 * [animint2 machine learning gallery](https://tdhock.github.io/gallery-ml): visualizations of classic and state-of-the-art algorithms.
 * [animint2 optimization gallery](https://tdhock.github.io/gallery-opt): visualizations of classic optimization algorithms, for teaching.
+* [animint2 atime gallery](https://tdhock.github.io/gallery-atime/): visualizations of asymptotic timing results computed using [atime](https://github.com/tdhock/atime).
 * [Change-point detection gallery](https://tdhock.github.io/gallery-change-point): visualizations of classic and state-of-the-art change-point detection algorithms.
 * [HiC gallery](https://tdhock.github.io/gallery-hic) and [Gallery of results visualization for hicream article](https://eoojj.github.io/hicream-article-viz/): visualizations of HiC genomic data, to support our [hicream Bioinformatics 2026 paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag631/8770358?login=true).
 
