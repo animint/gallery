@@ -1,8 +1,5 @@
-tdhock/2026-10-13-bisect-performance-pr7912-log10-lim0.01sec
 tdhock/2026-10-13-bisect-performance-pr7912
 tdhock/2026-10-09-performance-bisect-DT_by__fixed_in__4558_Slow_Fast
-tdhock/2026-10-09-performance-bisect-DT_by__fixed_in__4558_Before_Regression
-tdhock/2026-10-09-fread-git-bisect
 tdhock/2026-06-24-directlabels-grid
 tdhock/2026-06-19-svm-grid
 tdhock/2026-06-05-trust-region-2D
